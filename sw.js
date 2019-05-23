@@ -1,4 +1,4 @@
-const myCurrentCache = 'CacheV4';
+const myCurrentCache = 'CacheV10';
 const allCaches = [
   '/index.html',
   '/style.css',
