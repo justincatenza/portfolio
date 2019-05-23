@@ -1,6 +1,6 @@
 const myCurrentCache = 'CacheV1';
 const allCaches = [
-  'Project1.html',
+  'index.html',
   'style.css',
   'iphone7.png',
   'iphone6swhite.png',
