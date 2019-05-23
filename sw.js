@@ -24,7 +24,6 @@ self.addEventListener('activate', function(event) {
       return Promise.all(
         cacheNames.filter(function(cacheName) {
           cacheName != myCurrentCache;
-          return cacheName;
         }).map(function(cName) {
           return caches.delete(cName);
         })
