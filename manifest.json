@@ -13,7 +13,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/portfolio/index.html",
   "background_color": "#3367D6",
   "display": "fullscreen",
   "theme_color": "#3367D6"
