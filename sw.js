@@ -7,7 +7,6 @@ const allCaches = [
   '/iphone6sblack.png',
   '/applelogo800px.jpg',
   '/apple_logo-512.png',
-  '/',
 ];
 
 self.addEventListener('install', function(event) {
