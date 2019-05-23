@@ -1,12 +1,12 @@
 const myCurrentCache = 'CacheV10';
 const allCaches = [
-  'index.html',
-  'style.css',
-  'iphone7.png',
-  'iphone6swhite.png',
-  'iphone6sblack.png',
-  'applelogo800px.jpg',
-  'apple_logo-512.png',
+  '/index.html',
+  '/style.css',
+  '/iphone7.png',
+  '/iphone6swhite.png',
+  '/iphone6sblack.png',
+  '/applelogo800px.jpg',
+  '/apple_logo-512.png',
 ];
 
 self.addEventListener('install', function(event) {
